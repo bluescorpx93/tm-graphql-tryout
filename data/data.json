@@ -1,0 +1,45 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@john.com",
+      "age": 15,
+      "shopId": 1
+    },
+    {
+      "name": "qweHarry",
+      "email": "harry@test.om",
+      "age": 3,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "name": "Won Doe",
+      "email": "won@john.com",
+      "age": 25,
+      "shopId": 3
+    },
+    {
+      "name": "Harry",
+      "email": "harry@test.om",
+      "age": 3,
+      "shopId": 2,
+      "id": 5
+    }
+  ],
+  "shops": [
+    {
+      "id": 1,
+      "name": "Wow Shop"
+    },
+    {
+      "id": 2,
+      "name": "Now Shop"
+    },
+    {
+      "id": 3,
+      "name": "Demo Shop"
+    }
+  ]
+}
