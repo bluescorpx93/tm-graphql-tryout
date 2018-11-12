@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:server": "nodemon server.js",
-    "json:server" : "json-server --watch ./data/data.json"
+    "dev-server": "nodemon server.js",
+    "json-server" : "json-server --watch ./data/data.json"
   },
   "keywords": [],
   "author": "",
